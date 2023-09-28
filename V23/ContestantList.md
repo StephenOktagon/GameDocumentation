@@ -9,6 +9,8 @@ Birthday: 05/07/2017
 
 City of Residence: Birmingham
 
+Accepted?: Yes
+
 # Contestant 2
 Name: Lillia Geralds
 
@@ -19,6 +21,8 @@ Gender: female
 Birthday: 18/04/2017
 
 City of Residence: Birmingham
+
+Accepted?: Yes
 
 # Contestant 3
 Name: Courtney Bellevue
@@ -31,6 +35,8 @@ Birthday: 23/03/2016
 
 City of Residence: Birmingham
 
+Accepted?: Yes
+
 # Contestant 4
 Name: Rachel Bellevue
 
@@ -41,3 +47,5 @@ Gender: female
 Birthday: 30/12/2017
 
 City of Residence: Birmingham
+
+Accepted?: Yes
