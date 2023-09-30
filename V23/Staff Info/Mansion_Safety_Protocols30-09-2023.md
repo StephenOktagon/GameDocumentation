@@ -1,3 +1,4 @@
+# Mansion Safety Protocols (As Of 30.09.2023)
 # Introduction
 This document outlines the safety protocols to be followed within the mansion during "The Game" project. The safety and well-being of all participants, including the contestants, proxies, staff, and visitors, are of paramount importance. These protocols aim to maintain a secure and comfortable environment while addressing potential risks and emergencies.
 # General Safety Guidelines
